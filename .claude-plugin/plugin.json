@@ -1,0 +1,13 @@
+{
+  "name": "claude-beta-tester",
+  "description": "Run AI-powered browser testing against any URL using personality-driven agents — speedrunners, chaos gremlins, skeptical executives, and more. Surfaces bugs, UX friction, and edge cases that uniform testing misses.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rob Spence",
+    "url": "https://github.com/rjspence3"
+  },
+  "homepage": "https://github.com/rjspence3/claude-beta-tester",
+  "repository": "https://github.com/rjspence3/claude-beta-tester",
+  "license": "MIT",
+  "category": "development"
+}
